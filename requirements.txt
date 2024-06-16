@@ -1,0 +1,2 @@
+setuptools~=68.2.0
+textual==0.68.0
